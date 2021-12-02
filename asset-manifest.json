@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/fimilabs.github.io/static/css/main.921536e3.chunk.css",
-    "main.js": "/fimilabs.github.io/static/js/main.df3385f6.chunk.js",
-    "main.js.map": "/fimilabs.github.io/static/js/main.df3385f6.chunk.js.map",
+    "main.js": "/fimilabs.github.io/static/js/main.332b05cd.chunk.js",
+    "main.js.map": "/fimilabs.github.io/static/js/main.332b05cd.chunk.js.map",
     "runtime-main.js": "/fimilabs.github.io/static/js/runtime-main.a48b0991.js",
     "runtime-main.js.map": "/fimilabs.github.io/static/js/runtime-main.a48b0991.js.map",
     "static/js/2.7fc0a041.chunk.js": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js",
     "static/js/2.7fc0a041.chunk.js.map": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js.map",
     "index.html": "/fimilabs.github.io/index.html",
-    "precache-manifest.ce0427fe42c3c66db9b4bd78fce49f12.js": "/fimilabs.github.io/precache-manifest.ce0427fe42c3c66db9b4bd78fce49f12.js",
+    "precache-manifest.950edc48e26583b13184d4653285f52a.js": "/fimilabs.github.io/precache-manifest.950edc48e26583b13184d4653285f52a.js",
     "service-worker.js": "/fimilabs.github.io/service-worker.js",
     "static/css/main.921536e3.chunk.css.map": "/fimilabs.github.io/static/css/main.921536e3.chunk.css.map",
     "static/js/2.7fc0a041.chunk.js.LICENSE.txt": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.a48b0991.js",
     "static/js/2.7fc0a041.chunk.js",
     "static/css/main.921536e3.chunk.css",
-    "static/js/main.df3385f6.chunk.js"
+    "static/js/main.332b05cd.chunk.js"
   ]
 }

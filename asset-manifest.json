@@ -1,34 +1,27 @@
 {
   "files": {
-    "main.css": "/fimilabs.github.io/static/css/main.921536e3.chunk.css",
-    "main.js": "/fimilabs.github.io/static/js/main.332b05cd.chunk.js",
-    "main.js.map": "/fimilabs.github.io/static/js/main.332b05cd.chunk.js.map",
+    "main.css": "/fimilabs.github.io/static/css/main.322b26ca.chunk.css",
+    "main.js": "/fimilabs.github.io/static/js/main.149489c5.chunk.js",
+    "main.js.map": "/fimilabs.github.io/static/js/main.149489c5.chunk.js.map",
     "runtime-main.js": "/fimilabs.github.io/static/js/runtime-main.a48b0991.js",
     "runtime-main.js.map": "/fimilabs.github.io/static/js/runtime-main.a48b0991.js.map",
-    "static/js/2.7fc0a041.chunk.js": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js",
-    "static/js/2.7fc0a041.chunk.js.map": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js.map",
+    "static/js/2.33229b5b.chunk.js": "/fimilabs.github.io/static/js/2.33229b5b.chunk.js",
+    "static/js/2.33229b5b.chunk.js.map": "/fimilabs.github.io/static/js/2.33229b5b.chunk.js.map",
     "index.html": "/fimilabs.github.io/index.html",
-    "precache-manifest.950edc48e26583b13184d4653285f52a.js": "/fimilabs.github.io/precache-manifest.950edc48e26583b13184d4653285f52a.js",
+    "precache-manifest.d5447eb86caae0451bc0d61248e475d1.js": "/fimilabs.github.io/precache-manifest.d5447eb86caae0451bc0d61248e475d1.js",
     "service-worker.js": "/fimilabs.github.io/service-worker.js",
-    "static/css/main.921536e3.chunk.css.map": "/fimilabs.github.io/static/css/main.921536e3.chunk.css.map",
-    "static/js/2.7fc0a041.chunk.js.LICENSE.txt": "/fimilabs.github.io/static/js/2.7fc0a041.chunk.js.LICENSE.txt",
+    "static/css/main.322b26ca.chunk.css.map": "/fimilabs.github.io/static/css/main.322b26ca.chunk.css.map",
+    "static/js/2.33229b5b.chunk.js.LICENSE.txt": "/fimilabs.github.io/static/js/2.33229b5b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/fimilabs.github.io/static/media/illustration-section-02.63d0555d.svg",
-    "static/media/feature-tile-icon-01.svg": "/fimilabs.github.io/static/media/feature-tile-icon-01.0f9928d7.svg",
-    "static/media/feature-tile-icon-02.svg": "/fimilabs.github.io/static/media/feature-tile-icon-02.bd39f304.svg",
-    "static/media/feature-tile-icon-03.svg": "/fimilabs.github.io/static/media/feature-tile-icon-03.66f37ba5.svg",
-    "static/media/feature-tile-icon-04.svg": "/fimilabs.github.io/static/media/feature-tile-icon-04.836acd10.svg",
-    "static/media/feature-tile-icon-05.svg": "/fimilabs.github.io/static/media/feature-tile-icon-05.fa9ba00b.svg",
-    "static/media/feature-tile-icon-06.svg": "/fimilabs.github.io/static/media/feature-tile-icon-06.6a177696.svg",
     "static/media/features-split-image-01.png": "/fimilabs.github.io/static/media/features-split-image-01.d9cb99ce.png",
     "static/media/features-split-image-02.png": "/fimilabs.github.io/static/media/features-split-image-02.3c569239.png",
     "static/media/features-split-image-03.png": "/fimilabs.github.io/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.svg": "/fimilabs.github.io/static/media/logo.2810a88b.svg",
-    "static/media/video-placeholder.jpg": "/fimilabs.github.io/static/media/video-placeholder.a622fc5d.jpg"
+    "static/media/logo.svg": "/fimilabs.github.io/static/media/logo.2810a88b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a48b0991.js",
-    "static/js/2.7fc0a041.chunk.js",
-    "static/css/main.921536e3.chunk.css",
-    "static/js/main.332b05cd.chunk.js"
+    "static/js/2.33229b5b.chunk.js",
+    "static/css/main.322b26ca.chunk.css",
+    "static/js/main.149489c5.chunk.js"
   ]
 }

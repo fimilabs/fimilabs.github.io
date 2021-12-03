@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/fimilabs.github.io/precache-manifest.950edc48e26583b13184d4653285f52a.js"
+  "/fimilabs.github.io/precache-manifest.d5447eb86caae0451bc0d61248e475d1.js"
 );
 
 self.addEventListener('message', (event) => {

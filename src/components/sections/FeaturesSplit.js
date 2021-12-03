@@ -50,8 +50,8 @@ const FeaturesSplit = ({
   );
 
   const sectionHeader = {
-    title: 'Workflow that just works',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'Your HUD for Web3',
+    paragraph: 'Cockpit upgrades your browser experience with X-ray vision to the web3 social dynamics beneath'
   };
 
   return (
